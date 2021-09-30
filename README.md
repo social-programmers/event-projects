@@ -4,6 +4,6 @@
 
 Information is beautiful: https://informationisbeautiful.net/ 
 
-Kaggle questions/datasets: https://www.kaggle.com/questions-and-answers 
+Kaggle questions/datasets: https://www.kaggle.com/competitions
 
 Code Art: https://josefluispelz.com
